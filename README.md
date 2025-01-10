@@ -38,3 +38,4 @@ This project contains a script (`server-stats.sh`) that analyzes basic server pe
 ## Repository
 
 [Project URL](https://github.com/nxrjhxr81/server-performance)
+(https://roadmap.sh/projects/server-stats)
